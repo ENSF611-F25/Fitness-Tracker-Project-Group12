@@ -30,11 +30,13 @@ https://www.kaggle.com/datasets/jijagallery/fitlife-health-and-fitness-tracking-
 
 * Preprocessing
 * Train/Test Split
-* Models Compared
-| Model             | MAE      | RMSE     | R²        |
-| ----------------- | -------- | -------- | --------- |
-| Linear Regression | 2.31     | 11.08    | 0.889     |
-| Random Forest     | **0.25** | **0.47** | **0.998** |
-| Gradient Boosting | 0.35     | 0.47     | 0.998     |
+* Model Performance Comparison
+
+| Model               | MAE   | RMSE  | R²     |
+|---------------------|-------|--------|--------|
+| Linear Regression   | 2.31  | 11.08  | 0.889  |
+| Random Forest       | **0.25** | **0.47** | **0.998** |
+| Gradient Boosting   | 0.35  | 0.47   | 0.998  |
+
 
 Random Forest delivered the best average performance and is selected as the final model.
