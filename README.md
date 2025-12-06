@@ -1,6 +1,6 @@
 # Fitness-Tracker-Project-Group12
 
-# Why (Question/Topic being investigated)
+## Why (Question/Topic being investigated)
 
 Many FitTrack users set daily calorie-burn or activity goals, but often fail to meet them because they only assess progress late in
 the day, making it too late to take corrective action. This lack of timely feedback has been linked to decreased motivation and
