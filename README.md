@@ -38,3 +38,9 @@ https://www.kaggle.com/datasets/jijagallery/fitlife-health-and-fitness-tracking-
 | Gradient Boosting | 0.35     | 0.47     | 0.998     |
 
 Random Forest delivered the best average performance and is selected as the final model.
+
+## Results Summary
+
+* Random Forest predicts calorie burn with very high accuracy
+* Strong non-linear relationships captured through tree-based models
+* Near-perfect R² reflects a large, low-noise dataset with strong behavioral signals
